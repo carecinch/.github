@@ -1,1 +1,4 @@
-* @carenavigationadvocates/developers
+* @carecinch/developers
+
+# octo-sts trust policies grant credentials, so admins must approve changes.
+/.github/chainguard/ @carecinch/admins

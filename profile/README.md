@@ -4,4 +4,4 @@ CareCinch is a team of physicians and healthcare providers building **CareCinch.
 
 Our mission is to give everyone clear, confident, and accessible guidance in navigating their health, grounded in real clinical experience.
 
-[carenavigationadvocates.com](https://carenavigationadvocates.com)
+[carecinch.ai](https://carecinch.ai)
